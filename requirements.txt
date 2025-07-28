@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+xgboost
+matplotlib
+seaborn
+numpy
+pandas
+joblib
+pickle-mixin
+python-dotenv
+requests
+groq
+shap
+lime
